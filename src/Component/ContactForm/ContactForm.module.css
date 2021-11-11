@@ -1,0 +1,6 @@
+
+
+.blockform{
+    display: flex;
+    flex-direction: column;
+}
