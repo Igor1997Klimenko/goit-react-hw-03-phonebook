@@ -1,0 +1,8 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    width: min-content;
+    margin: auto;
+    background: aqua;
+    padding: 0 20px;
+}
